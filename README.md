@@ -7,6 +7,9 @@ I'm a database engineer in the UK working in Windows and supporting SQL Server a
 
 - 🌱 I’m currently learning ...
 Oracle.
+GitHub Actions.
+SCOM.
+DSC.
 
 - 💬 Ask me about ...
 Technical Community Events such as [SQL Bits](https://www.sqlbits.com) and [Data South West](https://www.meetup.com/SQL-South-West)
@@ -16,3 +19,6 @@ T: [@Fatherjack](https://twitter.com/fatherjack)
 
 - 😄 Pronouns: ...
 Jack, Him, He
+
+Default repo status
+![Greetings](https://github.com/fatherjack/fatherjack/workflows/Greetings/badge.svg)
