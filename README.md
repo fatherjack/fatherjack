@@ -19,3 +19,6 @@ T: [@Fatherjack](https://twitter.com/fatherjack)
 
 - 😄 Pronouns: ...
 Jack, Him, He
+
+Default repo status
+![Greetings](https://github.com/fatherjack/fatherjack/workflows/Greetings/badge.svg)
