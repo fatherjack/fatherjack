@@ -10,7 +10,7 @@ Oracle.
 
 
 - 💬 Ask me about ...
-Technical Community Events such as ([SQL Bits](https://www.sqlbits.com) and [Data South West] (https://www.meetup.com/SQL-South-West)
+Technical Community Events such as [SQL Bits](https://www.sqlbits.com) and [Data South West](https://www.meetup.com/SQL-South-West)
 
 - 📫 How to reach me: ...
 T: [@Fatherjack](https://twitter.com/fatherjack)
