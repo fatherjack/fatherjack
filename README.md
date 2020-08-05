@@ -30,12 +30,8 @@ Jack, Him, He
 
 [My public gists](https://gist.github.com/fatherjack)
 
-### Key Gists
-
-[Compare-StringSet](https://gist.github.com/fatherjack/4c91cc6832b8b02d1b7319716a5fba52)
-
-A PowerShell function to compare arrays of strings and show common / different between the sets.
-
-[New-CompressedFileSet](https://gist.github.com/fatherjack/f28b6f3ae8df8d363a3f810d894aadf3)
-
-A function to take a set of source files and compress them into a set of zip files below a chosen file size to allow email attachment.
+#### Key Gists
+|Gist title|Description|
+|---|---|
+| [Compare-StringSet](https://gist.github.com/fatherjack/4c91cc6832b8b02d1b7319716a5fba52) | A PowerShell function to compare arrays of strings and show common / different between the sets.|
+|[New-CompressedFileSet](https://gist.github.com/fatherjack/f28b6f3ae8df8d363a3f810d894aadf3)| A function to take a set of source files and compress them into a set of zip files below a chosen file size to allow email attachment.|
